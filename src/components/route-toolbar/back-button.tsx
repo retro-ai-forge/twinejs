@@ -1,4 +1,4 @@
-import {IconArrowLeft} from '@tabler/icons';
+import {IconArrowLeft} from '@tabler/icons-react';
 import * as React from 'react';
 import {useTranslation} from 'react-i18next';
 import {useHistory} from 'react-router-dom';

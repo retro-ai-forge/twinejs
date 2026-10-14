@@ -1,4 +1,4 @@
-import {IconResize} from '@tabler/icons';
+import {IconResize} from '@tabler/icons-react';
 import {Editor} from 'codemirror';
 import * as React from 'react';
 import {useTranslation} from 'react-i18next';

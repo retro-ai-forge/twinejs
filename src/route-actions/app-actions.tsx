@@ -1,4 +1,4 @@
-import {IconAward, IconBug, IconFileCode, IconSettings} from '@tabler/icons';
+import {IconAward, IconBug, IconFileCode, IconSettings} from '@tabler/icons-react';
 import * as React from 'react';
 import {useTranslation} from 'react-i18next';
 import {useHistory} from 'react-router-dom';

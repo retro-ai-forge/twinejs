@@ -1,4 +1,4 @@
-import {IconAlertOctagon} from '@tabler/icons';
+import {IconAlertOctagon} from '@tabler/icons-react';
 import * as React from 'react';
 import './error-message.css';
 

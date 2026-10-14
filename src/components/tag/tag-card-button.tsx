@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {useTranslation} from 'react-i18next';
 import {CardButton} from '../control/card-button';
-import {IconPlus, IconTag} from '@tabler/icons';
+import {IconPlus, IconTag} from '@tabler/icons-react';
 import {CardContent} from '../container/card';
 import {AutocompleteTextInput} from '../control/autocomplete-text-input';
 import type {AutocompleteMetadata} from '../control/autocomplete-text-input';

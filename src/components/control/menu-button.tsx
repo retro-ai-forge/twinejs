@@ -7,7 +7,7 @@ import {IconEmpty} from '../image/icon';
 import {IconButton, IconButtonProps} from './icon-button';
 import './menu-button.css';
 import {CheckboxButton} from './checkbox-button';
-import {IconCheck} from '@tabler/icons';
+import {IconCheck} from '@tabler/icons-react';
 
 export interface UncheckableLabeledMenuItem {
 	disabled?: boolean;

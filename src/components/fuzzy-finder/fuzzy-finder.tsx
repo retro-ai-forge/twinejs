@@ -1,4 +1,4 @@
-import {IconX} from '@tabler/icons';
+import {IconX} from '@tabler/icons-react';
 import classnames from 'classnames';
 import * as React from 'react';
 import {useHotkeys} from 'react-hotkeys-hook';

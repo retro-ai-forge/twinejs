@@ -7,7 +7,7 @@ import {
 	IconMaximize,
 	IconMinimize,
 	IconX
-} from '@tabler/icons';
+} from '@tabler/icons-react';
 import {Card} from '../card';
 import {IconButton} from '../../control/icon-button';
 import './dialog-card.css';

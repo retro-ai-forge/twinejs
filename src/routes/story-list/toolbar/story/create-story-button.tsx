@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {useTranslation} from 'react-i18next';
 import {useHistory} from 'react-router-dom';
-import {IconPlus} from '@tabler/icons';
+import {IconPlus} from '@tabler/icons-react';
 import {usePrefsContext} from '../../../../store/prefs';
 import {
 	createStory,
